@@ -1,0 +1,35 @@
+{
+    "name": "MIPA",
+    "short_name": "MIPA",
+    "icons": [
+      {
+        "src": "https://airdevco.s3-us-west-1.amazonaws.com/serve_files/icon-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "https://airdevco.s3-us-west-1.amazonaws.com/serve_files/icon-144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "https://airdevco.s3-us-west-1.amazonaws.com/serve_files/icon-152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "https://airdevco.s3-us-west-1.amazonaws.com/serve_files/icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://airdevco.s3-us-west-1.amazonaws.com/serve_files/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "https://canvas.airdev.co/version-test/pwa-test",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4183D7"
+}
